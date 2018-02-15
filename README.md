@@ -1,3 +1,3 @@
 ## try
 
-* [ ] git rebase
+* [ ] git rebase [-i | --interactive]
